@@ -9,6 +9,14 @@ If you are just starting coding games for iOS, it may seem like a lot to learn. 
 ## Source Files Description:
 
 This repository contains the source of the completed course project—a simple side-scrolling game for iOS.
+
+## 3rd-Party License and Attribution
+
+The source code for this course is adapted from Kevin Pham's [Simple Sprite Kit tutorial](http://www.nimbleandswift.com/simple-sprite-kit-tutorial-in-swift-1/). The original source code is available from Kevin's [GitHub repo](https://github.com/kpham13/SpaceshipGameTutorial).
+
+The original source and assets are licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
+
+
 ------
 
 These are source files for the Envato Tuts+ course: [Code a Side-Scrolling Game With Swift 3 and SpriteKit][published url]
